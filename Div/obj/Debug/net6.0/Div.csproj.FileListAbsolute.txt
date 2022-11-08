@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Языки программирования\Лекция 1\Div\bin\Debug\net6.0\Div.exe
+C:\Users\User\Desktop\Языки программирования\Лекция 1\Div\bin\Debug\net6.0\Div.deps.json
+C:\Users\User\Desktop\Языки программирования\Лекция 1\Div\bin\Debug\net6.0\Div.runtimeconfig.json
+C:\Users\User\Desktop\Языки программирования\Лекция 1\Div\bin\Debug\net6.0\Div.dll
+C:\Users\User\Desktop\Языки программирования\Лекция 1\Div\bin\Debug\net6.0\Div.pdb
+C:\Users\User\Desktop\Языки программирования\Лекция 1\Div\obj\Debug\net6.0\Div.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Языки программирования\Лекция 1\Div\obj\Debug\net6.0\Div.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Языки программирования\Лекция 1\Div\obj\Debug\net6.0\Div.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Языки программирования\Лекция 1\Div\obj\Debug\net6.0\Div.AssemblyInfo.cs
+C:\Users\User\Desktop\Языки программирования\Лекция 1\Div\obj\Debug\net6.0\Div.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Языки программирования\Лекция 1\Div\obj\Debug\net6.0\Div.dll
+C:\Users\User\Desktop\Языки программирования\Лекция 1\Div\obj\Debug\net6.0\refint\Div.dll
+C:\Users\User\Desktop\Языки программирования\Лекция 1\Div\obj\Debug\net6.0\Div.pdb
+C:\Users\User\Desktop\Языки программирования\Лекция 1\Div\obj\Debug\net6.0\Div.genruntimeconfig.cache
+C:\Users\User\Desktop\Языки программирования\Лекция 1\Div\obj\Debug\net6.0\ref\Div.dll
